@@ -2,7 +2,9 @@
 
 ## Project Overview
 This project detects whether a job posting is Real or Fake using Machine Learning and Natural Language Processing (NLP). It uses TF-IDF Vectorization for text feature extraction and Logistic Regression for classification of job descriptions.
-
+## Live Demo
+🔗 Streamlit App:
+https://fake-job-detection-sravanthi.streamlit.app/
 ## Features
 - Predicts whether a job posting is real or fake.
 - User-friendly interface built with Streamlit.
